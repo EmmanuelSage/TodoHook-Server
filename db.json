@@ -3,5 +3,5 @@
     { "id": 1, "todo": "Meditate for 5 mins" },
     { "id": 2, "todo": "Exercise for three minutes" },
     { "id": 3, "todo": "google something random to learn something new" }
-  ],
+  ]
 }
